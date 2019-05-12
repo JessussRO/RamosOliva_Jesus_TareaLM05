@@ -6,4 +6,8 @@
 		<fec_nac>08/04/99</fec_nac>
 		<telf>677777777</telf>
 	</usuario>
+	<usuario>
+		<nombre>Jose</nombre>
+		<apellidos>Peñas Gomez</apellidos>
+	</usuario>
 </usuarios>
