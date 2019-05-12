@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <usuarios>
 	<usuario>
-		<nombre></nombre>
-		<apellidos></apellidos>
-		<fec_nac></fec_nac>
+		<nombre>Juan</nombre>
+		<apellidos>Oliva Perez</apellidos>
+		<fec_nac>08/04/99</fec_nac>
 	</usuario>
 </usuarios>
